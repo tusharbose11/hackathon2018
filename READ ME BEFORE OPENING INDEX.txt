@@ -1,0 +1,11 @@
+The window in result analysis is the final displaying web page,
+USERNAME:12345
+PASS:12345
+for algorithm and working click "working algorithm".
+For English type "english"
+For Mathematics type "maths"
+For Physical Education type "p.ed"
+For Arts type "arts"
+For music type "music"
+For computer science type "cs"
+For Science type "science"
